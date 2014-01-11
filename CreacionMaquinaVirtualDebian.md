@@ -35,4 +35,4 @@ ya todos los conocemos.
 
 Ahora lanzo mi máquina para comprobar que la instalación se realizó correctamente
 
-![k7](https://www.dropbox.com/s/a0k10p219gim26l/debian.png)
+![k7](https://dl.dropbox.com/s/a0k10p219gim26l/debian.png)
