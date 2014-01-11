@@ -46,6 +46,8 @@ ahora copiamos todos los archivos en /var/www y reiniciamos servidor apache:
     
 Ya tenemos la aplicación corriendo en localhost en mis dos sistemas operativos.
 
+![kubuntu](https://dl.dropbox.com/s/tsuw1wiaxr17yys/localhostk.png)
+
 Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos, y voy a comparar los resultados para las distintas configuraciones de las distintas máquinas:
 
     Sintaxis ab: ab-n [número de conexiones]-c [número de usuarios simultáneos] [url]
