@@ -32,3 +32,7 @@ Ahora seleccionamos el tamaño que queramos que tenga nuestra máquina.
 
 Pulsamos sobre iniciar, nos pedirá que insertemos la ruta de donde se encuentra nuestra image "iso" y los demás pasos
 ya todos los conocemos. 
+
+Ahora lanzo mi máquina para comprobar que la instalación se realizó correctamente
+
+![k7]()
