@@ -18,7 +18,7 @@ A continuación voy a explicar como he instalado cada máquina virtual para las 
 
 Con el fin de evitar que el archivo README.md sea muy extenso dejo estos enlaces correspondientes a dos archivos donde explico como he realizado la instalación de cada una de mis máquinas.
 
-[Instalación de mi máquina virtual ubuntu](https://github.com/franciscomanuel/Practica3/blob/master/CreacionMaquinaVirtualDebian.md)
+[Instalación de mi máquina virtual ubuntu](https://github.com/franciscomanuel/Practica3/edit/master/CreacionMaquinaVirtualUbuntu.md)
 
 [Instalación de mi máquina virtual Kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/CreacionMaquinaVirtualKubuntu.md)
 
