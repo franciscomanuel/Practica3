@@ -31,11 +31,11 @@ Elegimos el nombre de nuestra máquina junto con el sistema operativo que deseam
 
 ![v2](https://dl.dropbox.com/s/cnmn79lcjrxvja2/v2.png)
 
-En la siguiente pantalla se nos pedirá el tamaño de la memoria RAM. Elegido el tamaño pulsamos en siguiente.
+En la siguiente pantalla se nos pedirá el tamaño de la memoria RAM. Escogeré como primera configuración un tamaño de memoria de 384 MB
 
 ![v3](https://dl.dropbox.com/s/63jaelauek2tvcy/v3.png)
 
-La nueva pantalla nos pedirá si deseamos o no crear un nuevo disco duro virtual o no. Yo le doy a que si.
+La nueva pantalla nos pedirá si deseamos o no crear un nuevo disco duro virtual. Yo le doy a que si.
 
 ![v4](https://dl.dropbox.com/s/in4dlzo3d1g72s6/v4.png)
 
@@ -48,6 +48,10 @@ Ahora seleccionamos el tamaño que queramos que tenga nuestra máquina.
 ![v6](https://dl.dropbox.com/s/642yzuq01cs4814/v6.png)
 
 Pulsamos sobre iniciar, nos pedirá que insertemos la ruta de donde se encuentra nuestra image "iso" y los demás pasos ya todos los conocemos. 
+
+Ya tenemos instalada nuestra primera máquina virtual con el sistema operativo Debian, ahora vamos a sacar los resultados para las distintas configuraciones de esta máquina:
+
+
 
 
 
