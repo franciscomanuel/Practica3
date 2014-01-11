@@ -49,9 +49,24 @@ Ahora seleccionamos el tamaño que queramos que tenga nuestra máquina.
 
 Pulsamos sobre iniciar, nos pedirá que insertemos la ruta de donde se encuentra nuestra image "iso" y los demás pasos ya todos los conocemos. 
 
-Ya tenemos instalada nuestra primera máquina virtual con el sistema operativo Debian, ahora vamos a sacar los resultados para las distintas configuraciones de esta máquina:
+Ya tenemos instalada nuestra primera máquina virtual con el sistema operativo Debian, mediante ab cuya sintaxis es:
+
+    ab -n [number of connections] -c [number of concurrent users] [url]
+
+vamos a sacar los resultados para las distintas configuraciones de esta máquina:
+
+    ab -100.000 -c 10 http://localhost/
 
 
+* Configuración 1: 384 MB de memoria RAM:
+
+* Configuración 2: 512 MB de memoria RAM:
+
+* Configuración 3: 1024 MB de memoria RAM:
+
+* Configuración 4: 2048 MB de memoria RAM:
+
+* Configuración 4: 4096 MB de memoria RAM:
 
 
 
