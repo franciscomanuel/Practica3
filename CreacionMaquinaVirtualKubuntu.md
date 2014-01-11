@@ -38,4 +38,4 @@ ya todos los conocemos.
 
 Ahora inicio mi máquina para comprobar que funciona correctamente:
 
-![k8]()
+![k8](https://dl.dropbox.com/s/7aasmkb2mvkv6be/kubuntu.png)
