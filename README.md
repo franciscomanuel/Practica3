@@ -18,7 +18,7 @@ A continuación voy a explicar como he instalado cada máquina virtual para las 
 
 [Instalación de mi máquina virtual Debian](https://github.com/franciscomanuel/Practica3/blob/master/CreacionMaquinaVirtualDebian.md)
 
-[Instalación de mi máquina virtual Kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/CreacionMaquinaVirtualKubuntu)
+[Instalación de mi máquina virtual Kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/CreacionMaquinaVirtualKubuntu.md)
 
 
 Ya tenemos instalada nuestra primera máquina virtual con el sistema operativo Debian, mediante ab cuya sintaxis es:
