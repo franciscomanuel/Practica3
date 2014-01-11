@@ -39,3 +39,4 @@ y los demás pasos ya todos los conocemos, instalamos como siempre el sistema op
 Ahora lanzo mi máquina para comprobar que la instalación se realizó correctamente
 
 ![v8]()
+
