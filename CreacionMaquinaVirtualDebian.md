@@ -1,5 +1,5 @@
-Debian7.3.0
-===========
+Instalación de mi máquina virtual Debian7.3.0
+=============================================
 
 Lanzamos VirtualBox:
 
