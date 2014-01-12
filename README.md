@@ -81,25 +81,34 @@ En todas las configuraciones se han realizado 100.000 peticiones con una concurr
     configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
     configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
 
-#### Gráfica para el tiempo empleado en realizarse el benchmark en cada configuración
+* Gráfica para el tiempo empleado en realizarse el benchmark en cada configuración
 
 ![grafica1](https://dl.dropbox.com/s/pgzy14pgbzr8mqz/grafica1.png)
 
-#### Gráfica para el número de solicitudes por segundo para las distintas configuraciones
+* Gráfica para el número de solicitudes por segundo para las distintas configuraciones
 
 ![grafica2](https://dl.dropbox.com/s/o6ul0suoq1cm5rs/grafica2.png)
 
-#### Gráfica para el tiempo por petición para las distintas configuraciones
+* Gráfica para el tiempo por petición para las distintas configuraciones
 
 ![grafica3](https://dl.dropbox.com/s/y3u5q5yc23tdfrl/grafica3.png)
 
-#### Gráfica para la velocidad de transferencia en las distintas configuraciones
+* Gráfica para la velocidad de transferencia en las distintas configuraciones
 
 ![grafica4](https://dl.dropbox.com/s/dz4vkza8iufb7mg/grafica4.png)
 
-#### Conclusión
+* Conclusión
 
 Con estas gráficas podemos concluir que a partir de 1024 MB tanto el tiempo empleado, como el número de solucitues por segundo, como el tiempo por petición y la velocidad de transferencia son similares, por lo tanto podemos concluir que una máquina virtual con el sistema operativo kubuntu y una memoria RAM de 1024 MB es suficiente para que esta funcione correctamente.
+
+### Resultados Debian
+
+                     memoria RAM  Tiempo empleado  Solicitudes por seg  Tº por petición  Velocidad de transferencia
+    configuracion1:     384 MB      30.039 s           3329.00 s          3.004 ms        25816.04 Kbytes/seg
+    configuracion2:     512 MB      29.672 s           3370.22 s          2.967 ms        26135.66 Kbytes/seg
+    configuracion3:    1024 MB      28.000 s           3571.46 s          2.800 ms        27696.23 Kbytes/seg
+    configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
+    configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
 
 
 
