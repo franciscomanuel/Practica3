@@ -55,7 +55,7 @@ Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos, y voy a comp
     
 ## Resultados obtenidos
 
-![resultados kubuntu]()
+![resultados kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/ResultadosKubuntu.md)
 
     
 
