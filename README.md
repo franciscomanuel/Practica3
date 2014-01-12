@@ -73,7 +73,19 @@ En todas las configuraciones se han realizado 100.000 peticiones con una concurr
     configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
     configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
 
-    
+#### Gráfica para el tiempo empleado en realizarse el benchmark
+
+![grafica1](https://dl.dropbox.com/s/pgzy14pgbzr8mqz/grafica1.png)
+
+![grafica2](https://dl.dropbox.com/s/o6ul0suoq1cm5rs/grafica2.png)
+
+![grafica3](https://dl.dropbox.com/s/y3u5q5yc23tdfrl/grafica3.png)
+
+![grafica4](https://dl.dropbox.com/s/dz4vkza8iufb7mg/grafica4.png)
+
+#### Conclusión
+
+Con estas gráficas podemos concluir que a partir de 1024 MB tanto el tiempo empleado, como el número de solucitues por segundo, como el tiempo por petición y la velocidad de transferencia son similares, por lo tanto podemos concluir que una máquina virtual con el sistema operativo kubuntu y una memoria RAM de 1024 MB es suficiente para que esta funcione correctamente.
 
 
 
