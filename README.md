@@ -48,14 +48,30 @@ Ya tenemos la aplicación corriendo en localhost en mis dos sistemas operativos.
 
 ![kubuntu](https://dl.dropbox.com/s/tsuw1wiaxr17yys/localhostk.png)
 
-Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos, y voy a comparar los resultados para las distintas configuraciones de las distintas máquinas:
+Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos sobre "localhost" en el cual he subido mi aplicación usada en las prácticas anteriores, y voy a comparar los resultados para las distintas configuraciones de las distintas máquinas:
 
     Sintaxis ab: ab-n [número de conexiones]-c [número de usuarios simultáneos] [url]
     ab -n 100000 -c 10 http://localhost/
     
 ## Resultados obtenidos
 
-[resultados kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/ResultadosKubuntu.md)
+En los siguientes enlaces podemos ver los resultados completos obtenidos para las distintas configuraciones en las máquinas.
+
+[Resultados kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/ResultadosKubuntu.md)
+
+Ahora voy a sacar los resultados que usaré para comparar las configuraciones y realizaré gráficas con dichos resultados:
+
+En todas las configuraciones se han realizado 100.000 peticiones con una concurrencia de 10 usuarios al servidor. El total trasferido ha sido de: 794100000 bytes y el HTML transferido ha sido de: 771700000 bytes
+
+
+### Resultados kubuntu
+
+                     memoria RAM  Tiempo empleado  Solicitudes por seg  Tº por petición  Velocidad de transferencia
+    configuracion1:     384 MB      30.039 s           3329.00 s          3.004 ms        25816.04 Kbytes/seg
+    configuracion2:     512 MB      29.672 s           3370.22 s          2.967 ms        26135.66 Kbytes/seg
+    configuracion3:    1024 MB      28.000 s           3571.46 s          2.800 ms        27696.23 Kbytes/seg
+    configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
+    configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
 
     
 
