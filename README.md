@@ -63,6 +63,8 @@ Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos sobre "localh
 
 En los siguientes enlaces podemos ver los resultados completos obtenidos para las distintas configuraciones en las máquinas.
 
+[Resultados Debian](https://github.com/franciscomanuel/Practica3/blob/master/ResultadosDebian.md)
+
 [Resultados kubuntu](https://github.com/franciscomanuel/Practica3/blob/master/ResultadosKubuntu.md)
 
 Ahora voy a sacar los resultados que usaré para comparar las configuraciones y realizaré gráficas con dichos resultados:
