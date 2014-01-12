@@ -53,6 +53,11 @@ Voy a ejecutar ab con 100.000 peticiones y 10 usuarios simultaneos, y voy a comp
     Sintaxis ab: ab-n [número de conexiones]-c [número de usuarios simultáneos] [url]
     ab -n 100000 -c 10 http://localhost/
     
+## Resultados obtenidos
+
+![resultados kubuntu]()
+
+    
 
 
 
