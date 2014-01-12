@@ -75,11 +75,11 @@ En todas las configuraciones se han realizado 100.000 peticiones con una concurr
 ### Resultados kubuntu
 
                      memoria RAM  Tiempo empleado  Solicitudes por seg  Tº por petición  Velocidad de transferencia
-    configuracion1:     384 MB      30.039 s           3329.00 s          3.004 ms        25816.04 Kbytes/seg
-    configuracion2:     512 MB      29.672 s           3370.22 s          2.967 ms        26135.66 Kbytes/seg
-    configuracion3:    1024 MB      28.000 s           3571.46 s          2.800 ms        27696.23 Kbytes/seg
-    configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
-    configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
+    configuracion1:     384 MB      30.039 s           3329.00            3.004 ms        25816.04 Kbytes/seg
+    configuracion2:     512 MB      29.672 s           3370.22            2.967 ms        26135.66 Kbytes/seg
+    configuracion3:    1024 MB      28.000 s           3571.46            2.800 ms        27696.23 Kbytes/seg
+    configuracion4:    2048 MB      28.268 s           3537.55            2.827 ms        27433.28 Kbytes/seg
+    configuracion5:    4096 MB      28.389 s           3522.50            2.839 ms        27316.58 Kbytes/seg
 
 **Gráfica para el tiempo empleado en realizarse el benchmark en cada configuración**
 
@@ -104,11 +104,29 @@ Con estas gráficas podemos concluir que a partir de 1024 MB tanto el tiempo emp
 ### Resultados Debian
 
                      memoria RAM  Tiempo empleado  Solicitudes por seg  Tº por petición  Velocidad de transferencia
-    configuracion1:     384 MB      30.039 s           3329.00 s          3.004 ms        25816.04 Kbytes/seg
-    configuracion2:     512 MB      29.672 s           3370.22 s          2.967 ms        26135.66 Kbytes/seg
-    configuracion3:    1024 MB      28.000 s           3571.46 s          2.800 ms        27696.23 Kbytes/seg
-    configuracion4:    2048 MB      28.268 s           3537.55 s          2.827 ms        27433.28 Kbytes/seg
-    configuracion5:    4096 MB      28.389 s           3522.50 s          2.839 ms        27316.58 Kbytes/seg
+    configuracion1:     384 MB       19.324 s           5174,89            1.932 ms           40408.64 Kbytes/s
+    configuracion2:     512 MB       18.794 s           5320.80            1.879 ms           41547.97 Kbytes/s  
+    configuracion3:    1024 MB       18.521 s           5399.30            1.852 ms           42160.95 Kbytes/s
+    configuracion4:    2048 MB       18.735 s           5337.55            1.874 ms           41678.74 Kbytes/s
+    configuracion5:    4096 MB       18.985 s           5267.37            1.898 ms           41130.77 Kbytes/s
+    
+**Gráfica para el tiempo empleado en realizarse el benchmark en cada configuración**
+
+![grafica1_1]()
+
+**Gráfica para el número de solicitudes por segundo para las distintas configuraciones**
+
+![grafica2_2]()
+
+**Gráfica para el tiempo por petición para las distintas configuraciones**
+
+![grafica3_3]()
+*
+*Gráfica para la velocidad de transferencia en las distintas configuraciones**
+
+![grafica4_4]()
+
+**Conclusión**
 
 
 
