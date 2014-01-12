@@ -33,7 +33,7 @@ Para poder hacer uso de apache benchmark tenemos que instalar previamente el ser
     
 Ahora instalamos apache benchmark:
 
-    ubuntu --> su
+    Debian --> su
                apt-get install apache2-utils
            
     kubuntu --> sudo apt-get install apache2-utils
