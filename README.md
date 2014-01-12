@@ -112,21 +112,29 @@ Con estas gráficas podemos concluir que a partir de 1024 MB tanto el tiempo emp
     
 **Gráfica para el tiempo empleado en realizarse el benchmark en cada configuración**
 
-![grafica1_1]()
+![grafica1_1](https://dl.dropbox.com/s/wnik24m5ihog47n/graficad_1.png)
 
 **Gráfica para el número de solicitudes por segundo para las distintas configuraciones**
 
-![grafica2_2]()
+![grafica2_2](https://dl.dropbox.com/s/tx9xgb5swusyozj/graficad_2.png)
 
 **Gráfica para el tiempo por petición para las distintas configuraciones**
 
-![grafica3_3]()
+![grafica3_3](https://dl.dropbox.com/s/qibdr3ycpcjdar7/graficad_3.png)
 *
 *Gráfica para la velocidad de transferencia en las distintas configuraciones**
 
-![grafica4_4]()
+![grafica4_4](https://dl.dropbox.com/s/igca83033ukdkju/graficad_4.png)
 
 **Conclusión**
+
+Con estos resultados podemos concluir que con una memoria RAM de 512 MB es suficiente para que funcione correctamente una máquina virtual con Debian, puesto que los resultados obtenidos para este tamaño de RAM son similares a los resultados obtenidos para las demás configuraciones (1024 MB, 2048 MB, 4096 MB).
+
+## Conclusión final
+
+Con estas comparaciones realizadas podemos decir que Debian necesita menos tamaño de RAM que Kubuntu para que funcione correctamente, por lo tanto si yo tuviera que escoger entre los dos sistemas opearativos eligiría Debian sin ninguna duda. Solo tengo una queja con respecto a Debian: he necesitado 4 horas para instalarlo, pero por lo demás he podido comprobar que va un mejor que kubuntu. Por ejemplo: para la configuración de 384 MB de RAM he podido notar que debian iba mas fluido que Kubuntu al navegar por dentro del sistema operativo.
+
+
 
 
 
