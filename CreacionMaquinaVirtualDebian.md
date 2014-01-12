@@ -32,7 +32,7 @@ Ahora seleccionamos el tamaño que queramos que tenga nuestra máquina (6 GB).
 
 Pulsamos sobre iniciar, nos pedirá que insertemos la ruta de donde se encuentra nuestra image "iso" 
 
-![d7](https://dl.dropbox.com/s/hhso70idcju39vt/d7.png)
+![d7](https://dl.dropbox.com/s/r0mzi6cxzktzc1a/debianfinal.png)
 
 y los demás pasos ya todos los conocemos, instalamos como siempre el sistema operativo. 
 
