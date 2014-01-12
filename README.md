@@ -92,8 +92,8 @@ En todas las configuraciones se han realizado 100.000 peticiones con una concurr
 **Gráfica para el tiempo por petición para las distintas configuraciones**
 
 ![grafica3](https://dl.dropbox.com/s/y3u5q5yc23tdfrl/grafica3.png)
-*
-*Gráfica para la velocidad de transferencia en las distintas configuraciones**
+
+**Gráfica para la velocidad de transferencia en las distintas configuraciones**
 
 ![grafica4](https://dl.dropbox.com/s/dz4vkza8iufb7mg/grafica4.png)
 
