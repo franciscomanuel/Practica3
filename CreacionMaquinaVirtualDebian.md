@@ -11,28 +11,28 @@ Una vez abierto virtualbox le damos a crear una nueva máquina virtual.
 
 Elegimos el nombre de nuestra máquina (Debian) junto con el sistema operativo que deseamos instalar (Debian).
 
-![d2](https://dl.dropbox.com/s/wf03u5w0wwkeemr/u1.png)
+![d2](https://dl.dropbox.com/s/il2sz8lcnuri786/d2.png)
 
 En la siguiente pantalla se nos pedirá el tamaño de la memoria RAM. Escogeré como primera configuración un tamaño de 
 memoria de 384 MB
 
-![d3](https://dl.dropbox.com/s/zxa2c8ixn5tjmhe/u3.png)
+![d3](https://dl.dropbox.com/s/kcjfsnhyc3wffk3/d3.png)
 
 La nueva pantalla nos pedirá si deseamos o no crear un nuevo disco duro virtual. Yo le doy a que si.
 
-![d4](https://dl.dropbox.com/s/yrxytsn881ba24s/u4.png)
+![d4](https://dl.dropbox.com/s/zgo0ctttxs45njq/d4.png)
 
 Selecciono como tipo de archivo para la unidad de disco duro QCOW
 
-![d5](https://dl.dropbox.com/s/eklfu2wpoo6jwph/u5.png)
+![d5](https://dl.dropbox.com/s/u0b92gdi61nmc4c/d5.png)
 
 Ahora seleccionamos el tamaño que queramos que tenga nuestra máquina (6 GB).
 
-![d6](https://dl.dropbox.com/s/h1ziisp4gxsr3to/debianRAM.png)
+![d6](https://dl.dropbox.com/s/ucfzgplxzqsist6/d6.png)
 
 Pulsamos sobre iniciar, nos pedirá que insertemos la ruta de donde se encuentra nuestra image "iso" 
 
-![d7](https://dl.dropbox.com/s/bwv8wrpq8apxjb6/u7.png)
+![d7](https://dl.dropbox.com/s/hhso70idcju39vt/d7.png)
 
 y los demás pasos ya todos los conocemos, instalamos como siempre el sistema operativo. 
 
