@@ -1,7 +1,7 @@
 Resultados obtenido en las distintas configuraciones para kubuntu
 =================================================================
 
-### Para 1 CPU
+## Para 1 CPU
 
 #### Configuración 1: 384MB de memoria RAM
 
@@ -23,4 +23,4 @@ Resultados obtenido en las distintas configuraciones para kubuntu
 
 ![resultados5](https://dl.dropbox.com/s/a37vsr66vibyq59/configuracion5_k_2.png)
 
-### Para 2 CPUs
+## Para 2 CPUs
