@@ -2,7 +2,7 @@
 
 ## Francisco Manuel Sánchez Ramos
 
-Para la realización de esta práctica voy a instalar dos máquinas virtuales haciendo uso de "VirtualBox", software de virtualización para arquitecturas x86/amd64. En cada máquina voy a instalar dos sistemas opeativos distintos y voy a ir modificandolos con distintas configuraciones para el tamaño de memoria así poder compararlos y determinar cuales son los recursos necesários para el correcto funcionamiento de cada una de nuestras máquinas.
+Para la realización de esta práctica voy a instalar dos máquinas virtuales haciendo uso de "VirtualBox", software de virtualización para arquitecturas x86/amd64. En cada máquina voy a instalar dos sistemas opeativos distintos con una CPU y voy a ir modificandolos con distintas configuraciones para el tamaño de memoria RAM para así poder compararlos y determinar cuales son los recursos necesários para el correcto funcionamiento de cada una de nuestras máquinas.
 
 El primer sistema operativo que voy a instalar va a ser Debian7.3.0 que podemos descargar desde la [web](http://www.debian.org/index.es.html). El segundo sistema operativo que usaré va a ser Kubuntu13.10 que podemos descargar desde su [web](http://www.kubuntu.org/getkubuntu).
 
@@ -69,7 +69,7 @@ En los siguientes enlaces podemos ver los resultados completos obtenidos para la
 
 Ahora voy a sacar los resultados que usaré para comparar las configuraciones y realizaré gráficas con dichos resultados:
 
-En todas las configuraciones se han realizado 100.000 peticiones con una concurrencia de 10 usuarios al servidor. El total trasferido ha sido de: 794100000 bytes y el HTML transferido ha sido de: 771700000 bytes
+En todas las configuraciones se han realizado 100.000 peticiones con una concurrencia de 10 usuarios al servidor localhost. El total trasferido ha sido de: 794100000 bytes y el HTML transferido ha sido de: 771700000 bytes
 
 
 ### Resultados kubuntu
